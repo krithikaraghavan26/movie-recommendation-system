@@ -1,0 +1,319 @@
+/* =========================================================
+   🎬 Movie Recommender — Aesthetic Lavender / Purple Theme
+   ========================================================= */
+
+:root {
+  --bg-grad-1: #2b2142;    /* deep plum */
+  --bg-grad-2: #4b3a73;    /* purple */
+  --bg-grad-3: #8c77ff;    /* electric lavender */
+  --surface: #ffffffee;    /* card glass */
+  --surface-soft: #f5f2ff80;
+  --ink: #16141c;
+  --ink-dim: #69637e;
+  --brand: #7d67ff;
+  --brand-2: #b996ff;
+  --brand-3: #ff7ad1;
+  --success: #36c38c;
+  --danger: #ff5470;
+  --ring: #c9baff;
+  --shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  --radius: 16px;
+}
+
+/* -------- Base -------- */
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  color: var(--ink);
+  background: radial-gradient(1200px 600px at 10% -20%, #9d89ff33, transparent 60%),
+              radial-gradient(800px 500px at 90% 10%, #ff92da33, transparent 55%),
+              linear-gradient(160deg, var(--bg-grad-1), var(--bg-grad-2) 55%, var(--bg-grad-3));
+  min-height: 100dvh;
+}
+
+/* -------- Header -------- */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: linear-gradient(90deg, #2f2550d9, #3a2e63d9);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  color: #fff;
+  padding: 18px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #ffffff1f;
+  box-shadow: var(--shadow);
+}
+
+/* Site title */
+.header h1 a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.8rem;
+  font-weight: 800;
+  letter-spacing: 0.3px;
+}
+
+.header h1 a:hover {
+  color: var(--brand-2);
+}
+
+/* Navbar section */
+.header nav {
+  display: flex;
+  align-items: center;
+  gap: 28px; /* more breathing room */
+}
+
+/* Welcome text */
+.header nav span {
+  color: #e3defc;
+  font-weight: 500;
+  margin-right: 8px;
+  font-size: 1rem;
+}
+
+/* Navbar links */
+.header nav a {
+  position: relative;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: color 0.2s ease;
+}
+
+/* Smooth hover underline */
+.header nav a::after {
+  content: "";
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: var(--brand-2);
+  transition: width 0.3s ease;
+}
+
+.header nav a:hover {
+  color: var(--brand-2);
+}
+
+.header nav a:hover::after {
+  width: 100%;
+}
+
+/* -------- Container -------- */
+.container {
+  width: min(1080px, 92%);
+  margin: 28px auto;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  border-radius: var(--radius);
+  border: 1px solid #ffffffa8;
+  padding: 26px;
+}
+
+/* -------- Headings -------- */
+h2 {
+  margin: 0 0 18px 0;
+  color: #2b2555;
+  font-size: 1.6rem;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+h2::after {
+  content: "";
+  flex: 1;
+  height: 2px;
+  background: linear-gradient(90deg, var(--brand-2), transparent);
+  margin-left: 8px;
+  border-radius: 2px;
+}
+
+/* -------- Buttons -------- */
+.action-button {
+  --bg: var(--brand);
+  border: none;
+  outline: none;
+  background: linear-gradient(180deg, var(--bg), #5a45ff);
+  color: #fff;
+  font-weight: 700;
+  padding: 10px 14px;
+  border-radius: 12px;
+  cursor: pointer;
+  text-decoration: none;
+  box-shadow: 0 6px 18px rgba(125, 103, 255, 0.35);
+  transition: transform 0.15s ease, box-shadow 0.2s ease, filter 0.2s ease;
+  white-space: nowrap;
+}
+
+.action-button:hover {
+  transform: translateY(-2px);
+  filter: saturate(1.1);
+}
+
+.action-success {
+  --bg: var(--success);
+  box-shadow: 0 6px 18px rgba(54, 195, 140, 0.35);
+}
+
+.action-danger {
+  --bg: var(--danger);
+  box-shadow: 0 6px 18px rgba(255, 84, 112, 0.35);
+}
+
+/* -------- Movie List -------- */
+.movie-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.movie-list li {
+  background: linear-gradient(180deg, #ffffffcc, #faf8ffcc);
+  border: 1px solid #eee8ff;
+  border-radius: 14px;
+  padding: 16px 18px;
+  margin-bottom: 14px;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  gap: 6px 16px;
+  box-shadow: 0 8px 18px rgba(65, 28, 120, 0.06);
+  transition: transform 0.18s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.movie-list li:hover {
+  transform: translateY(-3px);
+  border-color: var(--ring);
+  box-shadow: 0 12px 26px rgba(65, 28, 120, 0.12);
+}
+
+/* Movie info */
+.movie-list li > div:nth-of-type(1),
+.movie-list li > div:nth-of-type(2) {
+  grid-column: 1;
+}
+
+.movie-title a {
+  font-weight: 800;
+  font-size: 1.05rem;
+  color: #3b2ea5;
+  text-decoration: none;
+}
+
+.movie-title a:hover {
+  color: var(--brand);
+  text-decoration: underline;
+}
+
+.movie-list li > div:nth-of-type(2) {
+  color: var(--ink-dim);
+  font-size: 0.95rem;
+}
+
+/* Buttons on the right */
+.movie-list li > form,
+.movie-list li > a.action-button {
+  grid-column: 2;
+  justify-self: end;
+}
+
+.movie-list li > form {
+  display: inline;
+  margin: 0;
+}
+
+.movie-list li > a.action-button {
+  margin-left: 10px;
+}
+
+/* Empty state */
+.movie-list li:only-child {
+  text-align: center;
+}
+
+/* -------- Links inside content -------- */
+a {
+  color: var(--brand);
+}
+a:hover {
+  color: #5a45ff;
+}
+
+/* -------- Responsive -------- */
+@media (max-width: 720px) {
+  .container {
+    padding: 20px;
+  }
+
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+  }
+
+  .movie-list li {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .movie-list li > form,
+  .movie-list li > a.action-button {
+    grid-column: 1;
+    justify-self: stretch;
+  }
+
+  .movie-list li > a.action-button {
+    margin-left: 0;
+  }
+
+  .header nav {
+    gap: 18px;
+    flex-wrap: wrap;
+  }
+}
+/* === FINAL WATCHLIST FIX — Review left, Remove right === */
+.movie-list.watchlist.page li {
+  display: grid !important;
+  grid-template-rows: auto auto !important;
+  grid-template-columns: 1fr !important;
+  row-gap: 10px !important;
+}
+
+/* movie info spans first row full width */
+.movie-list.watchlist.page .movie-info {
+  grid-column: 1 / -1 !important;
+}
+
+/* second row: actions */
+.movie-list.watchlist.page .movie-actions {
+  grid-column: 1 / -1 !important;
+  display: flex !important;
+  justify-content: space-between !important;  /* Review left, Remove right */
+  align-items: center !important;
+  gap: 12px;
+  width: 100%;
+  margin-top: 8px;
+}
+
+/* clean margins */
+.movie-list.watchlist.page .movie-actions .review-button {
+  margin-left: 0 !important;
+}
+.movie-list.watchlist.page .movie-actions form {
+  margin: 0 !important;
+}

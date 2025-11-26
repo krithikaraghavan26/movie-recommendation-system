@@ -1,0 +1,251 @@
+review_id,user_id,movie_id,rating,review_text,review_date
+1,1,1,1,Boring and slow. Skip this one.,14-03-2021
+2,2,2,5,"Powerful film, deeply intelligent.. Villain was cartoonish and weak.",08-02-2024
+3,3,3,1,Incredible sound design. Tension built.,03-08-2024
+4,4,4,4,Perfectly average. Nothing special.,04-07-2024
+5,5,5,5,Sweet and charming. Low expectations exceeded.,21-01-2023
+6,6,6,1,"Great action, hilarious humor.. Boring and slow. Skip this one.",13-12-2023
+7,7,7,4,"Stunning visuals, shallow story",06-09-2023
+8,8,1,2,Emotional and haunting. Stayed with me,21-02-2022
+9,9,8,1,Predictable but fun. Popcorn flick.,27-03-2024
+10,10,9,1,Terrific cast wasted on weak script.,27-10-2020
+11,11,10,3,"Dark, gripping, beautifully shot.",30-06-2021
+12,12,11,3,Confusing at times but worth the patience.,30-01-2021
+13,13,12,4,"Dialogue felt wooden. Good idea, poor delivery.",02-09-2021
+14,14,13,2,Unexpectedly heartfelt. Loved every minute.,25-06-2024
+15,15,14,5,Couldnt finish it. Just dull.,12-06-2021
+16,16,15,2,A visual masterpiece with zero soul.,01-05-2021
+17,17,16,1,"Smart writing, brilliant pacing.",28-07-2022
+18,18,17,4,"Overhyped, underwhelming.",04-12-2021
+19,19,18,5,Simple story told with elegance.,06-08-2021
+20,20,19,3,"Too loud, too chaotic. Exhausting.",08-06-2020
+21,21,20,5,Fantastic lead performance.,13-10-2020
+22,22,21,1,Felt like a fever dream  in a good way.,19-01-2020
+23,23,22,4,"Average movie, great soundtrack.",06-02-2021
+24,24,23,2,Emotionally empty. Looked pretty though.,08-11-2021
+25,25,24,5,Wholesome and nostalgic. Loved it.,07-07-2022
+26,26,25,1,Didnt live up to the trailer.,15-03-2023
+27,27,26,4,"Full of clichés, but oddly comforting.",05-12-2021
+28,28,27,5,Thrilling from start to finish.,11-02-2022
+29,29,21,5,Tried too hard to be clever.,10-09-2022
+30,30,28,4,Unbearably slow.,20-02-2021
+31,31,29,2,A joyful surprise.,02-10-2020
+32,32,14,4,Laugh-out-loud funny.,28-07-2021
+33,33,30,3,Weirdly moving. Didnt expect that.,05-03-2022
+34,34,31,3,Flat performances all around.,11-09-2023
+35,35,32,2,Creative and bold. Deserves credit.,31-03-2022
+36,36,33,4,"Messy plot, great energy.",18-07-2022
+37,37,34,2,Painfully predictable.,11-11-2022
+38,38,35,5,"Gorgeous cinematography, empty characters.",29-06-2024
+39,39,36,4,Overly sentimental but sincere.,31-01-2020
+40,40,37,1,"Chilling atmosphere, weak ending.",07-01-2023
+41,41,13,5,"Great ideas, poor execution.",15-01-2021
+42,42,38,1,Surprisingly emotional.,19-12-2020
+43,43,36,5,Couldve been shorter.,24-02-2023
+44,44,39,1,Didnt connect with it.,17-10-2022
+45,45,3,3,A masterpiece in restraint.,20-04-2024
+46,46,14,4,Mediocre acting. Excellent direction.,26-12-2021
+47,47,40,5,Felt like homework.,17-09-2021
+48,48,41,1,Forgettable.,01-01-2020
+49,49,21,1,It dragged forever.,15-08-2020
+50,50,20,1,"All style, no substance.",23-01-2020
+51,51,42,1,Heavy-handed and obvious.,21-02-2023
+52,52,39,3,"Warm, funny, and real.",01-06-2020
+53,53,43,5,A love letter to cinema.,14-08-2021
+54,54,44,1,Mediocre acting. Excellent direction.,17-06-2020
+55,55,34,4,Excellent pacing.,18-08-2022
+56,56,45,2,Surprisingly tense.,12-12-2024
+57,57,46,1,Flat performances all around.,18-05-2024
+58,58,47,5,"Warm, funny, and real.",07-04-2020
+59,59,48,1,It dragged forever.,19-05-2024
+60,60,49,4,The twist saved it.,17-03-2024
+61,61,50,3,Tried too hard to shock.,29-11-2021
+62,62,24,2,"Good concept, weak follow-through.",21-08-2021
+63,63,51,5,Emotional rollercoaster.,18-03-2024
+64,64,52,1,Painfully dull. I couldnt wait for it to end.,09-08-2024
+65,65,9,4,Engaging story and solid acting... surprisingly good.,24-02-2021
+66,66,53,3,"Pretty average overall, had its moments.",02-02-2023
+67,67,54,2,Started fine but fell apart midway.,04-08-2022
+68,68,1,4,"Fresh and fun, better than expected.",02-10-2020
+69,69,55,2,"Some good scenes, but overall disappointing.",27-09-2024
+70,70,56,4,Heartfelt and well made.,24-09-2024
+71,71,20,2,Tries hard to be funny but misses often.,20-03-2022
+72,72,6,1,"Weak plot, bad acting, not worth watching.",14-04-2024
+73,73,14,4,Thrilling from start to finish.,31-03-2021
+74,74,29,1,Couldnt finish it... painfully slow.,25-01-2023
+75,75,29,5,"Beautiful, inspiring, and full of heart.",09-01-2023
+76,76,14,5,Outstanding! Every moment was electric.,03-12-2021
+77,77,38,1,"Flat performances, predictable plot.",03-05-2022
+78,78,57,4,"Tense, sharp, and surprisingly emotional.",22-03-2022
+79,79,56,4,"A powerful story, very well told.",09-04-2020
+80,80,58,5,Absolutely brilliant. One of the best.,25-01-2020
+81,81,59,4,Visually stunning and emotionally rich.,05-07-2020
+82,82,60,2,Mediocre effort  forgettable.,06-11-2022
+83,83,61,5,Masterfully crafted and deeply moving.,13-04-2021
+84,84,18,3,"Decent, though not particularly memorable.",14-01-2021
+85,85,38,4,Great pacing and strong performances.,07-03-2021
+86,86,13,4,"Confident, well-directed, and satisfying.",08-10-2021
+87,87,62,1,Awful pacing. Painful to sit through.,05-02-2020
+88,88,63,3,Watchable but lacks depth.,14-05-2022
+89,89,3,5,Brilliant! A visual and emotional triumph.,03-02-2023
+90,90,64,2,Disappointing and overhyped.,15-03-2023
+91,91,42,2,Bland story despite decent visuals.,15-08-2021
+92,92,57,1,Terrible acting and no direction.,24-05-2024
+93,93,36,1,A complete mess  avoid it.,03-04-2021
+94,94,65,5,Loved it! Every frame was magical.,19-02-2021
+95,95,66,2,Weak writing and dull execution.,13-09-2023
+96,96,32,1,Unbearably slow and lifeless.,25-03-2022
+97,97,27,2,Tried to be deep but failed.,19-11-2020
+98,98,49,1,Pretentious nonsense.,20-10-2022
+99,99,51,4,"Great tension, strong storytelling.",14-04-2023
+100,100,29,1,Just awful  nothing redeemable.,22-01-2022
+101,101,4,4,Polished and well-executed thriller.,13-04-2024
+102,102,50,1,Disorganized and dull.,24-01-2021
+103,103,39,1,Didnt make sense from start to end.,03-01-2021
+104,104,31,4,Engaging and emotionally grounded.,23-12-2024
+105,105,64,5,A true masterpiece. Unforgettable.,04-04-2020
+106,106,16,3,Solid but not special.,05-01-2021
+107,107,50,1,Couldnt stay awake.,02-02-2021
+108,108,37,2,Too slow for its own good.,28-10-2024
+109,109,14,3,"Decent acting, average story.",06-12-2020
+110,110,35,2,Forgettable and poorly paced.,06-08-2023
+111,111,67,2,Weak but somewhat passable.,10-07-2022
+112,112,58,3,Enjoyable in parts.,16-11-2023
+113,113,26,4,Sharp dialogue and great energy.,22-03-2021
+114,114,68,3,"Not bad, but not great either.",06-10-2021
+115,115,69,5,"Beautiful, emotional, and perfectly crafted.",16-02-2020
+116,116,31,1,Tedious beyond belief.,27-08-2021
+117,117,70,4,Strong performances and solid direction.,29-01-2020
+118,118,40,4,"Well-written, heartfelt, and engaging.",16-02-2024
+119,119,44,4,Consistently entertaining.,13-10-2023
+120,120,71,5,Outstanding! Left me speechless.,24-07-2022
+121,121,42,2,Poorly written and flat.,04-08-2021
+122,122,28,2,Predictable and unimpressive.,04-09-2022
+123,123,5,4,Nicely told and emotionally satisfying.,22-10-2022
+124,124,35,5,Brilliantly written and deeply human.,28-02-2020
+125,125,14,1,Disastrous. Total waste of time.,29-05-2024
+126,126,72,4,Fun and genuinely charming.,16-03-2023
+127,127,46,5,Wonderfully directed  a joy to watch.,12-08-2021
+128,128,73,3,Entertaining but forgettable.,20-02-2020
+129,129,65,3,"Some nice moments, overall fine.",15-02-2020
+130,130,74,3,Average film with good intent.,24-11-2024
+131,131,75,1,Terrible pacing and no character depth.,13-03-2024
+132,132,47,1,Dreadful from start to finish.,19-12-2020
+133,133,59,4,Great concept and executed well.,12-02-2020
+134,134,13,3,"Decent, though couldve been shorter.",30-03-2024
+135,135,54,5,"Brilliant storytelling, emotional perfection.",19-01-2020
+136,136,9,4,Creative and suspenseful.,08-10-2024
+137,137,5,1,Painfully bad performances.,02-08-2023
+138,138,26,5,Absolutely loved it  every second.,06-08-2020
+139,139,21,4,"Deep, engaging, and beautifully shot.",17-03-2021
+140,140,61,3,Enjoyable but not groundbreaking.,06-06-2023
+141,141,73,3,Fine for a one-time watch.,09-06-2020
+142,142,59,2,Generic and dull.,08-09-2022
+143,143,28,1,Over-the-top nonsense.,13-03-2023
+144,144,22,3,Some clever ideas but inconsistent.,28-04-2020
+145,145,18,2,Weak writing and unconvincing cast.,10-03-2023
+146,146,75,3,Balanced tone and decent acting.,30-05-2020
+147,147,76,1,Awful from start to finish.,21-07-2020
+148,148,23,5,Outstanding energy and unforgettable moments.,02-10-2023
+149,149,42,3,"Decent comedy, nothing more.",23-07-2021
+150,150,38,2,Pretty but pointless.,17-07-2023
+151,151,68,5,Incredible  a visual and emotional treat.,12-10-2023
+152,152,74,1,Badly directed and painfully long.,14-03-2020
+153,153,77,5,"Beautifully made, full of soul.",04-11-2024
+154,154,73,4,Strong and satisfying conclusion.,29-02-2020
+155,155,78,5,Flawless  easily one of the best.,24-10-2022
+156,156,79,3,"Engaging enough, but not amazing.",29-01-2023
+157,157,24,5,"Powerful, gripping, unforgettable.",15-06-2020
+158,158,47,5,Spectacular from start to finish.,12-02-2020
+159,159,61,2,Felt hollow despite good visuals.,19-11-2023
+160,160,29,1,Lazy and uninspired.,18-01-2021
+161,161,14,2,"Tried, but just didnt work.",12-07-2021
+162,162,80,2,"Forgettable story, weak pacing.",17-02-2023
+163,163,73,2,"Some charm, but mostly dull.",07-04-2020
+164,164,20,5,Inspirational and beautifully written.,07-09-2020
+165,165,19,5,A cinematic masterpiece.,16-08-2021
+166,166,12,1,Horrible editing and pacing.,30-04-2020
+167,167,49,4,Strong performances and direction.,29-09-2022
+168,168,16,2,Mediocre at best.,18-12-2024
+169,169,66,1,Clunky dialogue and wooden acting.,17-08-2021
+170,170,70,1,A total disaster.,24-07-2020
+171,171,67,1,Painfully slow. Avoid.,17-02-2022
+172,172,20,2,"Not terrible, just boring.",06-11-2020
+173,173,44,1,Couldnt connect at all.,02-02-2022
+174,174,80,2,Passable but unmemorable.,16-06-2022
+175,175,36,3,Decent effort with minor flaws.,27-08-2024
+176,176,6,4,Good tension and solid pacing.,27-09-2023
+177,177,34,4,Emotional and immersive.,18-01-2024
+178,178,40,5,Masterpiece  raw and brilliant.,08-01-2020
+179,179,69,2,"Average performances, weak story.",28-07-2024
+180,180,11,5,Exceptional! One of my favorites.,10-08-2021
+181,181,64,2,Watchable but weak.,05-09-2024
+182,182,4,2,Dull and predictable.,26-12-2020
+183,183,62,4,Smart and visually appealing.,29-01-2021
+184,184,31,4,Great tone and atmosphere.,20-01-2022
+185,185,63,3,"Decent, but forgettable ending.",22-09-2020
+186,186,1,4,Thoughtful and engaging.,07-12-2024
+187,187,68,2,Weak writing drags it down.,10-02-2021
+188,188,55,1,Messy and poorly made.,22-01-2022
+189,189,33,3,Fine but lacked emotion.,04-09-2022
+190,190,73,2,Unfocused and dull.,18-07-2020
+191,191,68,4,"Nicely executed, well-paced.",20-12-2024
+192,192,8,2,Average at best.,09-12-2020
+193,193,62,1,A complete failure.,02-01-2023
+194,194,72,2,Uninspired and bland.,29-11-2023
+195,195,41,4,Beautiful visuals and strong acting.,31-08-2022
+196,196,42,4,Good direction and atmosphere.,11-07-2021
+197,197,34,5,Exceptional  near perfect.,15-03-2023
+198,198,81,5,Fantastic storytelling and emotion.,06-03-2020
+199,199,35,2,Lacked originality.,30-03-2024
+200,200,64,5,Stunning and heartfelt.,24-11-2022
+201,201,7,5,A true classic in the making.,30-01-2024
+202,202,54,1,Terrible. Never again.,29-09-2023
+203,203,29,2,Mediocre attempt at something better.,08-05-2021
+204,204,30,1,Unwatchable mess.,21-01-2021
+205,205,36,5,Visually breathtaking and moving.,09-12-2023
+206,206,48,4,Solid but slightly too long.,18-10-2023
+207,207,27,1,Clumsy and forgettable.,13-03-2021
+208,208,63,2,Boring and repetitive.,28-12-2020
+209,209,33,1,"Weak script, bad acting.",09-01-2021
+210,210,82,3,Had potential but missed the mark.,06-10-2023
+211,211,83,4,Emotional and honest.,20-04-2024
+212,212,54,1,Chaotic and exhausting.,23-03-2021
+213,213,84,3,"A bit uneven, but enjoyable.",10-10-2022
+214,214,85,5,Touching and beautifully performed.,14-01-2024
+215,215,71,3,Some charm but inconsistent.,12-05-2023
+216,216,86,4,Fun and well-balanced.,14-08-2023
+217,217,53,5,"Intense, powerful, unforgettable.",05-01-2024
+218,218,14,1,Boring from start to finish.,26-08-2024
+219,219,86,2,"Not bad, just average.",12-04-2022
+220,220,52,4,Entertaining and well-crafted.,10-01-2024
+221,221,36,3,Interesting but flawed.,06-06-2023
+222,222,2,5,Brilliantly creative and satisfying.,17-12-2021
+223,223,15,1,Completely pointless.,28-12-2022
+224,224,26,2,Missed its potential.,11-12-2020
+225,225,28,3,Decent effort overall.,22-06-2021
+226,226,70,5,An absolute triumph.,08-08-2020
+227,227,83,4,Smart and confident direction.,04-02-2021
+228,228,57,4,Solid acting and nice tone.,21-03-2022
+229,229,8,5,"Fun, witty, and wonderfully made.",28-05-2022
+230,230,87,3,Okay but couldve been better.,26-11-2022
+231,231,10,3,"Enjoyable visuals, weak plot.",08-07-2021
+232,232,74,3,"Decent tension, nothing more.",07-06-2020
+233,233,65,1,"Awful sequel, unnecessary.",02-10-2023
+234,234,78,2,Looked nice but lacked depth.,24-01-2023
+235,235,52,1,"Horrible acting, no chemistry.",02-12-2020
+236,236,85,5,Outstanding world-building and emotion.,28-03-2023
+237,237,19,5,"Original, gripping, and powerful.",12-02-2024
+238,238,33,2,"Tries hard, fails harder.",12-11-2024
+239,239,4,1,Emotionally flat and dull.,01-05-2024
+240,240,40,2,Mediocre despite potential.,04-06-2021
+241,241,28,5,"Spectacular, a cinematic delight.",22-06-2021
+242,242,13,3,Decent and easy to watch.,27-05-2020
+243,243,13,3,Entertaining but standard.,18-10-2021
+244,244,49,3,Good moments but uneven tone.,26-01-2021
+245,245,68,4,"Strong performances, solid direction.",08-04-2021
+246,246,20,2,"Half-baked ideas, poor follow-through.",30-06-2023
+247,247,75,1,Terrible from every angle.,24-09-2020
+248,248,88,3,"Fine, light entertainment.",01-06-2021
+249,249,82,4,Enjoyable and nicely paced.,30-08-2022
+250,250,12,1,"Slow, boring, and instantly forgettable.",05-08-2024

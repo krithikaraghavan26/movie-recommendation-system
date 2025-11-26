@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Movie Recommender - {% block title %}{% endblock %}</title>
+
+    <!-- Main stylesheet -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header class="header">
+        <h1 class="site-title">
+            <a href="{{ url_for('index') }}">🎬 Movie Recommender</a>
+        </h1>
+        <nav class="nav">
+            {% if current_user.is_authenticated %}
+                <span class="welcome">Welcome, {{ current_user.name }}!</span>
+                <a href="{{ url_for('watchlist') }}" class="nav-link">My Watchlist</a>
+                <a href="{{ url_for('logout') }}" class="action-button action-primary">Logout</a>
+            {% else %}
+                <a href="{{ url_for('login') }}" class="action-button action-primary">Login</a>
+            {% endif %}
+        </nav>
+    </header>
+
+    <main class="container">
+        {% block content %}{% endblock %}
+    </main>
+</body>
+</html>

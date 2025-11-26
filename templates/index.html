@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+
+    <h2>Personalized Recommendations 4 You</h2>
+    <ul class="movie-list">
+        {% for movie in recommendations %}
+            <li>
+                <div class="movie-title">
+                    <a href="{{ url_for('movie_detail', movie_id=movie[0]) }}">{{ movie[1] }}</a> 
+                    ({{ movie[3] | round(2) }}/5 stars)
+                </div>
+                <div>Director: {{ movie[2] }}</div>
+                <form method="POST" action="{{ url_for('watchlist') }}" style="display:inline;">
+                    <input type="hidden" name="movie_id" value="{{ movie[0] }}">
+                    <input type="hidden" name="action" value="add">
+                    <button type="submit" class="action-button">Add to Watchlist</button>
+                </form>
+            </li>
+        {% else %}
+            <li>No personalized recommendations right now! Try reviewing a few movies.</li>
+        {% endfor %}
+    </ul>
+
+    <hr>
+
+    <h2>Top 10 Highest Rated Movies Overall</h2>
+    <ul class="movie-list">
+        {% for movie in top_movies %}
+            <li>
+                <div class="movie-title">{{ movie[0] }} ({{ movie[3] | round(2) }}/5 stars)</div>
+                <div>Genre: {{ movie[1] }} | Director: {{ movie[2] }}</div>
+            </li>
+        {% endfor %}
+    </ul>
+
+{% endblock %}

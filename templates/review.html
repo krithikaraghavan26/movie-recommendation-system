@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block title %}{{ movie_info[0] }}{% endblock %}
+
+{% block content %}
+    
+    <h2>{{ movie_info[0] }} ({{ movie_info[2] }})</h2>
+    <p><strong>Director:</strong> {{ movie_info[1] }} | <strong>Genre:</strong> {{ movie_info[3] }}</p>
+    {% if movie_info[4] %}
+        <p><strong>Average Rating:</strong> {{ movie_info[4] | round(2) }}/5</p>
+    {% else %}
+        <p><strong>Average Rating:</strong> Not yet rated.</p>
+    {% endif %}
+
+    <hr>
+
+    <h3>✍️ Submit Your Review</h3>
+    <form method="POST" action="{{ url_for('submit_review') }}">
+        <input type="hidden" name="movie_id" value="{{ movie_id }}">
+        
+        <label for="rating">Your Rating (1-5):</label>
+        <input type="number" id="rating" name="rating" min="1" max="5" required><br><br>
+        
+        <label for="review_text">Review:</label><br>
+        <textarea id="review_text" name="review_text" rows="4" cols="50" required></textarea><br><br>
+        
+        <button type="submit" class="action-button">Post Review</button>
+    </form>
+
+    <hr>
+
+    <h3>All Reviews</h3>
+    <ul class="reviews">
+        {% for review in reviews %}
+            <li class="review-item">
+                <p><strong>{{ review[0] }}</strong> on {{ review[3] }}</p>
+                <p>Rating: <strong>{{ review[1] }}/5</strong></p>
+                <p>{{ review[2] }}</p>
+            </li>
+        {% else %}
+            <li>No reviews yet. Be the first!</li>
+        {% endfor %}
+    </ul>
+
+{% endblock %}

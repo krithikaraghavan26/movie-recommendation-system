@@ -1,0 +1,251 @@
+user_id,name,email,title,genre,release_year,director,rating,review_text,review_date
+78,Dr. James Everett,veronicatodd@hotmail.com,Django Unchained,Romance,2012,Christopher Nolan,1,Boring and slow. Skip this one.,14-03-2021
+66,Meagan Johnson MD,flynnlori@alvarez.com,Toy Story,Sci-Fi,2006,Quentin Tarantino,5,"Powerful film, deeply intelligent.. Villain was cartoonish and weak.",08-02-2024
+12,Amanda Travis,tracey17@hotmail.com,Oppenheimer,Thriller,2010,Steven Spielberg,1,Incredible sound design. Tension built.,03-08-2024
+14,Margaret Cabrera,kellyramos@strong.biz,Avengers: Infinity War,Comedy,1983,Denis Villeneuve,4,Perfectly average. Nothing special.,04-07-2024
+80,Cynthia Larson,barrettjustin@yahoo.com,Gladiator,Action,2003,Greta Gerwig,5,Sweet and charming. Low expectations exceeded.,21-01-2023
+64,Matthew Weber,jon66@yahoo.com,The Imitation Game,Romance,1989,Greta Gerwig,1,"Great action, hilarious humor.. Boring and slow. Skip this one.",13-12-2023
+32,Mackenzie Jimenez,lauren07@gmail.com,Avatar,Action,2017,Christopher Nolan,4,"Stunning visuals, shallow story",06-09-2023
+63,Teresa Humphrey,rioskyle@yahoo.com,Django Unchained,Romance,2012,Christopher Nolan,2,Emotional and haunting. Stayed with me,21-02-2022
+68,Angela Goodman,lewisjoyce@huff.com,Gravity,Horror,2003,David Fincher,1,Predictable but fun. Popcorn flick.,27-03-2024
+65,Eric Roberts,hooverstephanie@miller.biz,Interstellar,Drama,2008,Wes Anderson,1,Terrific cast wasted on weak script.,27-10-2020
+5,Eric Johnson,esparzaeric@ingram.com,Inglourious Basterds,Action,1981,Steven Spielberg,3,"Dark, gripping, beautifully shot.",30-06-2021
+53,Linda Robinson,linda93@gmail.com,Bird Box,Animation,2011,Greta Gerwig,3,Confusing at times but worth the patience.,30-01-2021
+52,Taylor Peterson,rodriguezmark@gmail.com,Moana,Comedy,1990,Greta Gerwig,4,"Dialogue felt wooden. Good idea, poor delivery.",02-09-2021
+2,Shelley Daniel,heatherellis@yahoo.com,Logan,Thriller,2017,Greta Gerwig,2,Unexpectedly heartfelt. Loved every minute.,25-06-2024
+41,Michelle Ward,bennettderek@gmail.com,Gone Girl,Drama,2007,Wes Anderson,5,Couldn’t finish it. Just dull.,12-06-2021
+32,Cassandra Howe,bakerchristopher@whitaker.org,Captain America,Thriller,2022,James Cameron,2,A visual masterpiece with zero soul.,01-05-2021
+24,David Roman,ryanlee@hotmail.com,Her,Action,1991,Steven Spielberg,1,"Smart writing, brilliant pacing.",28-07-2022
+24,Jill Barker,ybell@stevenson.biz,The Maze Runner,Animation,2015,James Cameron,4,"Overhyped, underwhelming.",04-12-2021
+32,Carla Kennedy,rachelfrederick@gmail.com,The Revenant,Drama,2005,Steven Spielberg,5,Simple story told with elegance.,06-08-2021
+30,Brad Conner,brian55@adkins.com,Frozen,Sci-Fi,1996,Christopher Nolan,3,"Too loud, too chaotic. Exhausting.",08-06-2020
+63,Javier Sweeney,jonesdonald@yahoo.com,Ex Machina,Thriller,1991,Ridley Scott,5,Fantastic lead performance.,13-10-2020
+25,Olivia Good,victoriajones@fisher.com,Up,Sci-Fi,1981,Denis Villeneuve,1,Felt like a fever dream — in a good way.,19-01-2020
+20,Scott Miller,darius04@hotmail.com,Thor,Action,1986,Martin Scorsese,4,"Average movie, great soundtrack.",06-02-2021
+40,Bryan Brooks,tracy66@yahoo.com,The Social Network,Comedy,2000,Ridley Scott,2,Emotionally empty. Looked pretty though.,08-11-2021
+74,Brent Jacobs,robinsonkristin@landry.org,Arrival,Drama,1994,Greta Gerwig,5,Wholesome and nostalgic. Loved it.,07-07-2022
+5,Walter Johnson,randall20@martinez.com,La La Land,Comedy,2004,Martin Scorsese,1,Didn’t live up to the trailer.,15-03-2023
+3,Madeline Walsh,youngsean@hayes-kirby.com,Don't Look Up,Romance,2007,Martin Scorsese,4,"Full of clichés, but oddly comforting.",05-12-2021
+2,Ronald Jackson PhD,stevesanchez@hotmail.com,Madagascar,Animation,1983,Christopher Nolan,5,Thrilling from start to finish.,11-02-2022
+1,Benjamin Sanders,troygreene@smith-roberts.com,Up,Sci-Fi,1981,Denis Villeneuve,5,Tried too hard to be clever.,10-09-2022
+80,Jennifer Todd,jenniferbuck@gmail.com,The Wolf of Wall Street,Action,1980,Martin Scorsese,4,Unbearably slow.,20-02-2021
+38,Monica King,andrewmiller@werner.biz,1917,Drama,1997,David Fincher,2,A joyful surprise.,02-10-2020
+32,Julie Holland,christinecontreras@buck.com,Gone Girl,Drama,2007,Wes Anderson,4,Laugh-out-loud funny.,28-07-2021
+62,Derek Young,pearsonjennifer@duncan-reed.net,Black Panther,Comedy,2011,James Cameron,3,Weirdly moving. Didn’t expect that.,05-03-2022
+71,Tina Scott,nbell@yahoo.com,Iron Man,Sci-Fi,2012,Steven Spielberg,3,Flat performances all around.,11-09-2023
+7,Dan Thompson,kimjose@hotmail.com,Se7en,Romance,1998,Christopher Nolan,2,Creative and bold. Deserves credit.,31-03-2022
+13,John Lewis,jordan74@price.org,Wonder Woman,Action,2014,Wes Anderson,4,"Messy plot, great energy.",18-07-2022
+64,Stephen Fitzgerald,christopherparker@spencer-haas.com,Dunkirk,Comedy,1998,Martin Scorsese,2,Painfully predictable.,11-11-2022
+30,Kevin Walker,martinezthomas@yahoo.com,The Matrix,Action,1982,Christopher Nolan,5,"Gorgeous cinematography, empty characters.",29-06-2024
+1,Daniel Joseph,mileserica@morton-wood.com,Tenet,Sci-Fi,2024,Wes Anderson,4,Overly sentimental but sincere.,31-01-2020
+63,Deanna Herrera,michelle06@williams.info,Coco,Horror,2011,Martin Scorsese,1,"Chilling atmosphere, weak ending.",07-01-2023
+6,Taylor Cameron,abigailgross@hotmail.com,Logan,Thriller,2017,Greta Gerwig,5,"Great ideas, poor execution.",15-01-2021
+20,Amber Weber,justin06@jackson.com,Ant-Man,Romance,2024,James Cameron,1,Surprisingly emotional.,19-12-2020
+1,Dennis Baker,cameronsantos@gmail.com,Tenet,Sci-Fi,2024,Wes Anderson,5,Could’ve been shorter.,24-02-2023
+49,Sherry Cline,gatkins@watts.com,Avengers: Endgame,Action,2012,Denis Villeneuve,1,Didn’t connect with it.,17-10-2022
+61,James Salas,douglashansen@vang-daniels.info,Oppenheimer,Thriller,2010,Steven Spielberg,3,A masterpiece in restraint.,20-04-2024
+69,Rachel Foster,benitezjohn@ryan-booker.info,Gone Girl,Drama,2007,Wes Anderson,4,Mediocre acting. Excellent direction.,26-12-2021
+26,Jonathan Flores,christian36@diaz.info,Memento,Action,1998,Quentin Tarantino,5,Felt like homework.,17-09-2021
+49,Victoria Stewart,ismith@hotmail.com,Spider-Man: No Way Home,Horror,2001,Martin Scorsese,1,Forgettable.,01-01-2020
+62,Tiffany Armstrong,brendajohnson@gmail.com,Up,Sci-Fi,1981,Denis Villeneuve,1,It dragged forever.,15-08-2020
+1,Joshua Jackson,wcabrera@escobar-murphy.com,Ex Machina,Thriller,1991,Ridley Scott,1,"All style, no substance.",23-01-2020
+80,Miguel Clark,murphykimberly@yahoo.com,Iron Man 2,Horror,2000,Wes Anderson,1,Heavy-handed and obvious.,21-02-2023
+14,Kelli Robinson,smedina@thompson.com,Avengers: Endgame,Action,2012,Denis Villeneuve,3,"Warm, funny, and real.",01-06-2020
+79,Angel Williams,jeffrey81@page-thompson.com,Titanic,Drama,2001,Greta Gerwig,5,A love letter to cinema.,14-08-2021
+61,James Ruiz,vaughntyler@brown.com,Dune,Horror,2019,Martin Scorsese,1,Mediocre acting. Excellent direction.,17-06-2020
+35,Nicholas Keller,joshua01@hogan.biz,Dunkirk,Comedy,1998,Martin Scorsese,4,Excellent pacing.,18-08-2022
+73,Richard Thompson,kimfranco@gmail.com,Knives Out,Romance,1981,Wes Anderson,2,Surprisingly tense.,12-12-2024
+50,Kimberly Lane,lauren61@barber.com,Train to Busan,Thriller,2021,Wes Anderson,1,Flat performances all around.,18-05-2024
+6,Wayne Smith,erin31@gmail.com,It,Horror,2021,Wes Anderson,5,"Warm, funny, and real.",07-04-2020
+49,Wayne Carrillo,raguilar@gmail.com,Eternals,Horror,1995,Greta Gerwig,1,It dragged forever.,19-05-2024
+47,Eric Larson,masoneric@gmail.com,Guardians of the Galaxy,Comedy,1999,Greta Gerwig,4,The twist saved it.,17-03-2024
+41,Frank Branch,patrick07@gmail.com,Blade Runner 2049,Comedy,1990,Martin Scorsese,3,Tried too hard to shock.,29-11-2021
+27,Tyler Jones,ebrown@hotmail.com,Arrival,Drama,1994,Greta Gerwig,2,"Good concept, weak follow-through.",21-08-2021
+80,Jeffrey Wilson,rebeccagreene@yahoo.com,The Incredibles,Romance,1998,Martin Scorsese,5,Emotional rollercoaster.,18-03-2024
+24,Shelby Hendrix,kennethfletcher@yahoo.com,Top Gun,Action,2005,Greta Gerwig,1,Painfully dull. I couldn’t wait for it to end.,09-08-2024
+72,Sarah Mckinney,matthew48@stewart-gonzalez.com,Interstellar,Drama,2008,Wes Anderson,4,Engaging story and solid acting... surprisingly good.,24-02-2021
+60,Natalie Luna,yperez@mckinney-bailey.com,Aquaman,Animation,2023,Quentin Tarantino,3,"Pretty average overall, had its moments.",02-02-2023
+49,Kevin Morgan,michaelbarnes@hernandez.com,Justice League,Comedy,1991,Ridley Scott,2,Started fine but fell apart midway.,04-08-2022
+26,Ashley Davidson,justinbuckley@johnson.info,Django Unchained,Romance,2012,Christopher Nolan,4,"Fresh and fun, better than expected.",02-10-2020
+21,David Reed,ykramer@morris.com,Shrek,Action,1994,Greta Gerwig,2,"Some good scenes, but overall disappointing.",27-09-2024
+52,David Smith,jay14@morgan-collins.com,John Wick,Horror,2018,Wes Anderson,4,Heartfelt and well made.,24-09-2024
+58,Matthew Young,wendy11@hotmail.com,Ex Machina,Thriller,1991,Ridley Scott,2,Tries hard to be funny but misses often.,20-03-2022
+45,Brandon Roman,bporter@yahoo.com,The Imitation Game,Romance,1989,Greta Gerwig,1,"Weak plot, bad acting, not worth watching.",14-04-2024
+27,Stacey Andrews,thomas72@smith.com,Gone Girl,Drama,2007,Wes Anderson,4,Thrilling from start to finish.,31-03-2021
+78,Darlene Reynolds,patricia75@mays-ross.com,1917,Drama,1997,David Fincher,1,Couldn’t finish it... painfully slow.,25-01-2023
+76,Melanie Mitchell,darrell00@khan.com,1917,Drama,1997,David Fincher,5,"Beautiful, inspiring, and full of heart.",09-01-2023
+69,Sherry Mcneil,bmckay@harris.com,Gone Girl,Drama,2007,Wes Anderson,5,Outstanding! Every moment was electric.,03-12-2021
+35,Raven Johnson,swells@yahoo.com,Ant-Man,Romance,2024,James Cameron,1,"Flat performances, predictable plot.",03-05-2022
+33,Jeremy Mills,jasondavid@mooney-hernandez.com,The Flash,Sci-Fi,2012,Quentin Tarantino,4,"Tense, sharp, and surprisingly emotional.",22-03-2022
+70,Jeffrey Nelson,mariacooper@curtis.info,John Wick,Horror,2018,Wes Anderson,4,"A powerful story, very well told.",09-04-2020
+44,Benjamin Ortega,thernandez@yahoo.com,The Prestige,Animation,2016,Steven Spielberg,5,Absolutely brilliant. One of the best.,25-01-2020
+11,Andrea Bradley,patriciapatel@bates-johnson.com,Mission Impossible,Sci-Fi,2014,Steven Spielberg,4,Visually stunning and emotionally rich.,05-07-2020
+76,Katrina Rojas,melissacurtis@ross-ibarra.net,Fight Club,Animation,2005,Quentin Tarantino,2,Mediocre effort — forgettable.,06-11-2022
+64,Jonathan Mcneil,fchan@matthews-harris.com,The Hunger Games,Horror,2011,Ridley Scott,5,Masterfully crafted and deeply moving.,13-04-2021
+34,James Miller,carterlogan@smith-bailey.info,The Revenant,Drama,2005,Steven Spielberg,3,"Decent, though not particularly memorable.",14-01-2021
+76,Amanda Rojas,smithveronica@yahoo.com,Ant-Man,Romance,2024,James Cameron,4,Great pacing and strong performances.,07-03-2021
+40,John Smith,cjones@ross.com,Logan,Thriller,2017,Greta Gerwig,4,"Confident, well-directed, and satisfying.",08-10-2021
+3,Jorge Mitchell,taylormarc@gmail.com,Parasite,Comedy,2014,David Fincher,1,Awful pacing. Painful to sit through.,05-02-2020
+72,Stephen Silva,ksmith@hotmail.com,Iron Man 3,Animation,2015,Christopher Nolan,3,Watchable but lacks depth.,14-05-2022
+3,Sherri Velazquez,xgriffin@hotmail.com,Oppenheimer,Thriller,2010,Steven Spielberg,5,Brilliant! A visual and emotional triumph.,03-02-2023
+13,Dr. Melinda Livingston,mackenziedalton@white.net,The Theory of Everything,Horror,1991,Wes Anderson,2,Disappointing and overhyped.,15-03-2023
+17,Amy Pierce,hromero@gmail.com,Iron Man 2,Horror,2000,Wes Anderson,2,Bland story despite decent visuals.,15-08-2021
+44,Annette Brooks,samuelnelson@brown.com,The Flash,Sci-Fi,2012,Quentin Tarantino,1,Terrible acting and no direction.,24-05-2024
+65,John Johnson,lopezandrew@wallace-gaines.biz,Tenet,Sci-Fi,2024,Wes Anderson,1,A complete mess — avoid it.,03-04-2021
+49,Kyle Jones,mpena@liu-williams.com,Forrest Gump,Animation,2020,Steven Spielberg,5,Loved it! Every frame was magical.,19-02-2021
+21,Jose Snyder,jschwartz@gmail.com,Jurassic Park,Drama,1984,Christopher Nolan,2,Weak writing and dull execution.,13-09-2023
+49,Brittany Pacheco,popecarlos@yahoo.com,Se7en,Romance,1998,Christopher Nolan,1,Unbearably slow and lifeless.,25-03-2022
+21,Justin Fowler,tcunningham@west.com,Madagascar,Animation,1983,Christopher Nolan,2,Tried to be deep but failed.,19-11-2020
+14,Kayla Lam,denise20@miller-porter.com,Guardians of the Galaxy,Comedy,1999,Greta Gerwig,1,Pretentious nonsense.,20-10-2022
+54,Tim Roberts,yvette40@gmail.com,The Incredibles,Romance,1998,Martin Scorsese,4,"Great tension, strong storytelling.",14-04-2023
+66,Randall Travis,williamgonzales@fry-sanchez.info,1917,Drama,1997,David Fincher,1,Just awful — nothing redeemable.,22-01-2022
+6,Amber Williams,zoliver@green.com,Avengers: Infinity War,Comedy,1983,Denis Villeneuve,4,Polished and well-executed thriller.,13-04-2024
+13,Jill Day,henry13@moore-meyer.com,Blade Runner 2049,Comedy,1990,Martin Scorsese,1,Disorganized and dull.,24-01-2021
+66,Jason Harris,ashley04@gmail.com,Avengers: Endgame,Action,2012,Denis Villeneuve,1,Didn’t make sense from start to end.,03-01-2021
+29,Tanya Ramirez,ethan11@barton.info,Iron Man,Sci-Fi,2012,Steven Spielberg,4,Engaging and emotionally grounded.,23-12-2024
+19,Edward Brown,matthewhernandez@gmail.com,The Theory of Everything,Horror,1991,Wes Anderson,5,A true masterpiece. Unforgettable.,04-04-2020
+48,Jeffrey Friedman,lindsey04@porter.com,Her,Action,1991,Steven Spielberg,3,Solid but not special.,05-01-2021
+16,Amy Brennan,freemanwilliam@yahoo.com,Blade Runner 2049,Comedy,1990,Martin Scorsese,1,Couldn’t stay awake.,02-02-2021
+68,Scott Pierce,wcampos@welch.net,Coco,Horror,2011,Martin Scorsese,2,Too slow for its own good.,28-10-2024
+45,Jeffrey Wolfe,derrick80@morris.com,Gone Girl,Drama,2007,Wes Anderson,3,"Decent acting, average story.",06-12-2020
+12,Brandon Pena,brian31@oconnor-vargas.net,The Matrix,Action,1982,Christopher Nolan,2,Forgettable and poorly paced.,06-08-2023
+28,Kimberly Miller,sbarker@yahoo.com,The Conjuring,Animation,1982,Wes Anderson,2,Weak but somewhat passable.,10-07-2022
+23,Jo Berger,garciaandrew@gmail.com,The Prestige,Animation,2016,Steven Spielberg,3,Enjoyable in parts.,16-11-2023
+50,Michelle Goodwin,smolina@washington-smith.org,Don't Look Up,Romance,2007,Martin Scorsese,4,Sharp dialogue and great energy.,22-03-2021
+72,Megan Murphy,kenneth77@yahoo.com,Whiplash,Thriller,2014,Steven Spielberg,3,"Not bad, but not great either.",06-10-2021
+37,Jodi Ray,catherineking@yahoo.com,Pulp Fiction,Sci-Fi,1993,David Fincher,5,"Beautiful, emotional, and perfectly crafted.",16-02-2020
+80,Leah Cline,cruzmichael@hotmail.com,Iron Man,Sci-Fi,2012,Steven Spielberg,1,Tedious beyond belief.,27-08-2021
+32,Luis Bailey,peterwashington@scott.biz,The Whale,Horror,2000,Wes Anderson,4,Strong performances and solid direction.,29-01-2020
+53,Charles Lucas,lwebb@yahoo.com,Memento,Action,1998,Quentin Tarantino,4,"Well-written, heartfelt, and engaging.",16-02-2024
+23,David Key,michelleblake@williams.com,Dune,Horror,2019,Martin Scorsese,4,Consistently entertaining.,13-10-2023
+27,Todd Martin,corteznicole@hotmail.com,Divergent,Sci-Fi,1980,Wes Anderson,5,Outstanding! Left me speechless.,24-07-2022
+42,David Herring,schaeferdavid@kelley-wood.com,Iron Man 2,Horror,2000,Wes Anderson,2,Poorly written and flat.,04-08-2021
+72,Paul Grant,ebonyhernandez@davis.biz,The Wolf of Wall Street,Action,1980,Martin Scorsese,2,Predictable and unimpressive.,04-09-2022
+16,Alexandra Khan,emilysaunders@hotmail.com,Gladiator,Action,2003,Greta Gerwig,4,Nicely told and emotionally satisfying.,22-10-2022
+70,Deborah Smith,donaldjackson@moore.com,The Matrix,Action,1982,Christopher Nolan,5,Brilliantly written and deeply human.,28-02-2020
+73,Charles Odom,mackvictoria@hotmail.com,Gone Girl,Drama,2007,Wes Anderson,1,Disastrous. Total waste of time.,29-05-2024
+78,Richard Maldonado,drowe@hotmail.com,Joker,Action,2003,David Fincher,4,Fun and genuinely charming.,16-03-2023
+11,Steven Johnson,qgonzalez@yahoo.com,Train to Busan,Thriller,2021,Wes Anderson,5,Wonderfully directed — a joy to watch.,12-08-2021
+5,Amanda Robinson,greenlisa@crawford-boyd.org,The Lion King,Horror,1993,Greta Gerwig,3,Entertaining but forgettable.,20-02-2020
+25,Jon Robinson,fscott@hotmail.com,Forrest Gump,Animation,2020,Steven Spielberg,3,"Some nice moments, overall fine.",15-02-2020
+10,William Baker,gary79@wang.net,Glass Onion,Romance,1984,Denis Villeneuve,3,Average film with good intent.,24-11-2024
+34,Eric Sutton,asanders@hotmail.com,Once Upon a Time in Hollywood,Romance,2016,Martin Scorsese,1,Terrible pacing and no character depth.,13-03-2024
+28,Ann Franklin,michellemorgan@hotmail.com,It,Horror,2021,Wes Anderson,1,Dreadful from start to finish.,19-12-2020
+27,Carrie Smith,jeffery94@duffy.com,Mission Impossible,Sci-Fi,2014,Steven Spielberg,4,Great concept and executed well.,12-02-2020
+30,Dylan Martin,brett77@hotmail.com,Logan,Thriller,2017,Greta Gerwig,3,"Decent, though could’ve been shorter.",30-03-2024
+5,Kenneth Acosta,keithjohnson@lee.com,Justice League,Comedy,1991,Ridley Scott,5,"Brilliant storytelling, emotional perfection.",19-01-2020
+47,Connie Thomas,rachelaguilar@townsend.com,Interstellar,Drama,2008,Wes Anderson,4,Creative and suspenseful.,08-10-2024
+5,Angel Ramirez,henrymichele@gmail.com,Gladiator,Action,2003,Greta Gerwig,1,Painfully bad performances.,02-08-2023
+14,Jonathan Smith Jr.,matthewsantos@gmail.com,Don't Look Up,Romance,2007,Martin Scorsese,5,Absolutely loved it — every second.,06-08-2020
+39,Todd Martinez,podonnell@yahoo.com,Up,Sci-Fi,1981,Denis Villeneuve,4,"Deep, engaging, and beautifully shot.",17-03-2021
+72,Tyler Li,michelerobinson@hotmail.com,The Hunger Games,Horror,2011,Ridley Scott,3,Enjoyable but not groundbreaking.,06-06-2023
+5,Anthony King,christine71@spencer.info,The Lion King,Horror,1993,Greta Gerwig,3,Fine for a one-time watch.,09-06-2020
+45,Kaitlyn Lane,pharris@hotmail.com,Mission Impossible,Sci-Fi,2014,Steven Spielberg,2,Generic and dull.,08-09-2022
+8,Monica Abbott,taylorlarry@rivera.org,The Wolf of Wall Street,Action,1980,Martin Scorsese,1,Over-the-top nonsense.,13-03-2023
+46,Kevin Hardin,jodi00@gmail.com,Thor,Action,1986,Martin Scorsese,3,Some clever ideas but inconsistent.,28-04-2020
+2,Lisa Anthony,ktaylor@adkins-lopez.com,The Revenant,Drama,2005,Steven Spielberg,2,Weak writing and unconvincing cast.,10-03-2023
+65,Christopher Hayes,robinsonmary@yahoo.com,Once Upon a Time in Hollywood,Romance,2016,Martin Scorsese,3,Balanced tone and decent acting.,30-05-2020
+32,Rebecca Werner,garciabrenda@ramirez.com,The Batman,Romance,2014,David Fincher,1,Awful from start to finish.,21-07-2020
+32,Lisa Evans,susan01@hotmail.com,The Social Network,Comedy,2000,Ridley Scott,5,Outstanding energy and unforgettable moments.,02-10-2023
+67,Tim Stevenson,callahanveronica@gmail.com,Iron Man 2,Horror,2000,Wes Anderson,3,"Decent comedy, nothing more.",23-07-2021
+52,Jennifer Santos,erinhancock@yahoo.com,Ant-Man,Romance,2024,James Cameron,2,Pretty but pointless.,17-07-2023
+1,Jessica Nichols,stanleytimothy@smith-avery.com,Whiplash,Thriller,2014,Steven Spielberg,5,Incredible — a visual and emotional treat.,12-10-2023
+34,Adrian Orozco,bethanybautista@walker.org,Glass Onion,Romance,1984,Denis Villeneuve,1,Badly directed and painfully long.,14-03-2020
+50,Jacob Cox,george07@hill.com,Shang-Chi,Sci-Fi,2022,Ridley Scott,5,"Beautifully made, full of soul.",04-11-2024
+62,Austin Gordon,rmolina@hunter.info,The Lion King,Horror,1993,Greta Gerwig,4,Strong and satisfying conclusion.,29-02-2020
+49,Gina Martinez,dlynn@gmail.com,The Shawshank Redemption,Comedy,1990,Christopher Nolan,5,Flawless — easily one of the best.,24-10-2022
+32,Sonya Haley,ramirezveronica@gmail.com,Annabelle,Thriller,2018,David Fincher,3,"Engaging enough, but not amazing.",29-01-2023
+61,Amber Moore,thomaswallace@yahoo.com,Arrival,Drama,1994,Greta Gerwig,5,"Powerful, gripping, unforgettable.",15-06-2020
+4,Rhonda Hart,nvelez@francis.com,It,Horror,2021,Wes Anderson,5,Spectacular from start to finish.,12-02-2020
+63,Kristie Robinson,nsanchez@jones-hess.com,The Hunger Games,Horror,2011,Ridley Scott,2,Felt hollow despite good visuals.,19-11-2023
+37,Robert Roberts,sharonsmith@neal.com,1917,Drama,1997,David Fincher,1,Lazy and uninspired.,18-01-2021
+54,Steven Allen,clarkbrian@hotmail.com,Gone Girl,Drama,2007,Wes Anderson,2,"Tried, but just didn’t work.",12-07-2021
+71,Patrick Brown,kevinhood@phillips-davis.info,Hulk,Horror,2020,Wes Anderson,2,"Forgettable story, weak pacing.",17-02-2023
+71,Patrick Hughes,yortega@yahoo.com,The Lion King,Horror,1993,Greta Gerwig,2,"Some charm, but mostly dull.",07-04-2020
+54,Barbara Coleman,kristaberger@gmail.com,Ex Machina,Thriller,1991,Ridley Scott,5,Inspirational and beautifully written.,07-09-2020
+45,Ashley White,jeremywood@yahoo.com,Frozen,Sci-Fi,1996,Christopher Nolan,5,A cinematic masterpiece.,16-08-2021
+47,Carrie Flores,edwardswilliam@williams.com,Moana,Comedy,1990,Greta Gerwig,1,Horrible editing and pacing.,30-04-2020
+5,Brian Morris,walkerlindsey@knight-sparks.com,Guardians of the Galaxy,Comedy,1999,Greta Gerwig,4,Strong performances and direction.,29-09-2022
+52,David Price,michaelcook@khan.com,Her,Action,1991,Steven Spielberg,2,Mediocre at best.,18-12-2024
+11,Robert Knight,zhudson@martin-carney.com,Jurassic Park,Drama,1984,Christopher Nolan,1,Clunky dialogue and wooden acting.,17-08-2021
+15,Charles Harrison,ksnyder@yahoo.com,The Whale,Horror,2000,Wes Anderson,1,A total disaster.,24-07-2020
+24,Marc Rowland,nicholsonlaura@schroeder.com,The Conjuring,Animation,1982,Wes Anderson,1,Painfully slow. Avoid.,17-02-2022
+42,Tara Choi,gonzalezjennifer@smith.org,Ex Machina,Thriller,1991,Ridley Scott,2,"Not terrible, just boring.",06-11-2020
+40,Michael Duarte,kevin92@henderson.com,Dune,Horror,2019,Martin Scorsese,1,Couldn’t connect at all.,02-02-2022
+57,Elizabeth Duffy,sarahjackson@garcia.org,Hulk,Horror,2020,Wes Anderson,2,Passable but unmemorable.,16-06-2022
+67,Andrea Medina,amandazuniga@smith.org,Tenet,Sci-Fi,2024,Wes Anderson,3,Decent effort with minor flaws.,27-08-2024
+56,Amy Rangel,nolankaren@yahoo.com,The Imitation Game,Romance,1989,Greta Gerwig,4,Good tension and solid pacing.,27-09-2023
+56,Becky Rodriguez,coreydudley@yahoo.com,Dunkirk,Comedy,1998,Martin Scorsese,4,Emotional and immersive.,18-01-2024
+67,Joseph Sexton,speterson@kemp.net,Memento,Action,1998,Quentin Tarantino,5,Masterpiece — raw and brilliant.,08-01-2020
+59,Tiffany Richards,melissa46@burch-williams.com,Pulp Fiction,Sci-Fi,1993,David Fincher,2,"Average performances, weak story.",28-07-2024
+21,Debbie Scott,travisweber@cox-brown.com,Bird Box,Animation,2011,Greta Gerwig,5,Exceptional! One of my favorites.,10-08-2021
+2,Ryan Gomez,baldwinangela@smith.info,The Theory of Everything,Horror,1991,Wes Anderson,2,Watchable but weak.,05-09-2024
+47,Richard Fitzgerald,brandy47@parks.com,Avengers: Infinity War,Comedy,1983,Denis Villeneuve,2,Dull and predictable.,26-12-2020
+38,Lucas Andrews,moraleskayla@gmail.com,Parasite,Comedy,2014,David Fincher,4,Smart and visually appealing.,29-01-2021
+72,Shawn Davila,williamsondavid@campbell.info,Iron Man,Sci-Fi,2012,Steven Spielberg,4,Great tone and atmosphere.,20-01-2022
+65,Elizabeth Williams,christopher85@martin-harris.com,Iron Man 3,Animation,2015,Christopher Nolan,3,"Decent, but forgettable ending.",22-09-2020
+4,Christopher Houston,veronicavargas@hotmail.com,Django Unchained,Romance,2012,Christopher Nolan,4,Thoughtful and engaging.,07-12-2024
+44,Monique Lyons,elizabeth60@cobb.com,Whiplash,Thriller,2014,Steven Spielberg,2,Weak writing drags it down.,10-02-2021
+72,Emily Riley,sanchezrobert@joseph.org,Shrek,Action,1994,Greta Gerwig,1,Messy and poorly made.,22-01-2022
+67,Joseph Wilson,lauren02@gmail.com,Wonder Woman,Action,2014,Wes Anderson,3,Fine but lacked emotion.,04-09-2022
+68,Ian Reyes,tmcdonald@hotmail.com,The Lion King,Horror,1993,Greta Gerwig,2,Unfocused and dull.,18-07-2020
+34,Mallory Blackburn,eric28@hotmail.com,Whiplash,Thriller,2014,Steven Spielberg,4,"Nicely executed, well-paced.",20-12-2024
+30,Benjamin Ellis,mitchellcory@herrera-tapia.com,Gravity,Horror,2003,David Fincher,2,Average at best.,09-12-2020
+40,Walter Nguyen,mario88@johnson.biz,Parasite,Comedy,2014,David Fincher,1,A complete failure.,02-01-2023
+52,Jessica Graves,sancheznicole@hotmail.com,Joker,Action,2003,David Fincher,2,Uninspired and bland.,29-11-2023
+56,Christopher Jones,jamiegood@walker.com,Spider-Man: No Way Home,Horror,2001,Martin Scorsese,4,Beautiful visuals and strong acting.,31-08-2022
+32,Aaron Smith,johnsonbrandon@yahoo.com,Iron Man 2,Horror,2000,Wes Anderson,4,Good direction and atmosphere.,11-07-2021
+63,Nina Phillips,gquinn@hotmail.com,Dunkirk,Comedy,1998,Martin Scorsese,5,Exceptional — near perfect.,15-03-2023
+33,Calvin Johnson,ashleybrown@yahoo.com,Avengers,Horror,1990,Christopher Nolan,5,Fantastic storytelling and emotion.,06-03-2020
+17,Bobby Farrell,lscott@peterson.com,The Matrix,Action,1982,Christopher Nolan,2,Lacked originality.,30-03-2024
+33,Richard Bullock,tyler13@mcdonald.biz,The Theory of Everything,Horror,1991,Wes Anderson,5,Stunning and heartfelt.,24-11-2022
+27,Rick Carney,victoria66@sanders.com,Avatar,Action,2017,Christopher Nolan,5,A true classic in the making.,30-01-2024
+73,Aaron Shields,brownnicole@hotmail.com,Justice League,Comedy,1991,Ridley Scott,1,Terrible. Never again.,29-09-2023
+43,Justin Ramirez,alexandermooney@gmail.com,1917,Drama,1997,David Fincher,2,Mediocre attempt at something better.,08-05-2021
+34,Tara Henderson,potterrebekah@pierce.info,Black Panther,Comedy,2011,James Cameron,1,Unwatchable mess.,21-01-2021
+69,Joseph Hurst,williamsaimee@yahoo.com,Tenet,Sci-Fi,2024,Wes Anderson,5,Visually breathtaking and moving.,09-12-2023
+57,William Patton,heather57@perry-taylor.biz,Eternals,Horror,1995,Greta Gerwig,4,Solid but slightly too long.,18-10-2023
+77,Corey Heath,uadkins@yahoo.com,Madagascar,Animation,1983,Christopher Nolan,1,Clumsy and forgettable.,13-03-2021
+36,Marvin Hughes,melissahaas@figueroa.biz,Iron Man 3,Animation,2015,Christopher Nolan,2,Boring and repetitive.,28-12-2020
+53,Pam Miles,jamesdaniels@davis.biz,Wonder Woman,Action,2014,Wes Anderson,1,"Weak script, bad acting.",09-01-2021
+73,Daniel Griffin,leahjackson@gmail.com,Finding Nemo,Thriller,1987,Greta Gerwig,3,Had potential but missed the mark.,06-10-2023
+15,Emma Allen,joneselijah@meyer.com,Barbie,Thriller,2020,Martin Scorsese,4,Emotional and honest.,20-04-2024
+10,Kimberly Giles,bradyrebecca@yahoo.com,Justice League,Comedy,1991,Ridley Scott,1,Chaotic and exhausting.,23-03-2021
+51,Nathan Brennan,rodriguezryan@yahoo.com,Man of Steel,Horror,1990,Martin Scorsese,3,"A bit uneven, but enjoyable.",10-10-2022
+43,Melissa Davis,vanessa39@vargas.com,Inception,Animation,2022,Greta Gerwig,5,Touching and beautifully performed.,14-01-2024
+29,Thomas Ryan,xjohnson@gmail.com,Divergent,Sci-Fi,1980,Wes Anderson,3,Some charm but inconsistent.,12-05-2023
+43,Megan Mcdaniel,fblack@hotmail.com,The Godfather,Animation,2008,David Fincher,4,Fun and well-balanced.,14-08-2023
+60,Michael Hartman,daviesbrandon@yahoo.com,Aquaman,Animation,2023,Quentin Tarantino,5,"Intense, powerful, unforgettable.",05-01-2024
+54,Erica Patel,browndiana@hernandez.info,Gone Girl,Drama,2007,Wes Anderson,1,Boring from start to finish.,26-08-2024
+69,Rebecca Conway,jasonhuerta@stone.com,The Godfather,Animation,2008,David Fincher,2,"Not bad, just average.",12-04-2022
+67,Dana Howell,evansdawn@nelson-lane.info,Top Gun,Action,2005,Greta Gerwig,4,Entertaining and well-crafted.,10-01-2024
+71,Mary Bright,awhitehead@gmail.com,Tenet,Sci-Fi,2024,Wes Anderson,3,Interesting but flawed.,06-06-2023
+77,Katherine Young,edward01@yahoo.com,Toy Story,Sci-Fi,2006,Quentin Tarantino,5,Brilliantly creative and satisfying.,17-12-2021
+17,Melissa Payne,nicholasbarton@hotmail.com,Captain America,Thriller,2022,James Cameron,1,Completely pointless.,28-12-2022
+71,Robyn White,sheryl03@randall-watson.com,Don't Look Up,Romance,2007,Martin Scorsese,2,Missed its potential.,11-12-2020
+32,Sharon Olson,freemanfrancisco@hotmail.com,The Wolf of Wall Street,Action,1980,Martin Scorsese,3,Decent effort overall.,22-06-2021
+40,Jeffrey Lewis,elizabethrollins@hotmail.com,The Whale,Horror,2000,Wes Anderson,5,An absolute triumph.,08-08-2020
+61,Greg Shepherd,joshua74@yahoo.com,Barbie,Thriller,2020,Martin Scorsese,4,Smart and confident direction.,04-02-2021
+46,Tina Douglas,jonesjoseph@newton-poole.info,The Flash,Sci-Fi,2012,Quentin Tarantino,4,Solid acting and nice tone.,21-03-2022
+64,Eric Fox,wendy79@schwartz.info,Gravity,Horror,2003,David Fincher,5,"Fun, witty, and wonderfully made.",28-05-2022
+58,John Fuentes,damonriggs@yahoo.com,Deadpool,Action,1982,James Cameron,3,Okay but could’ve been better.,26-11-2022
+38,Cindy Sanchez,perryrobert@yahoo.com,Inglourious Basterds,Action,1981,Steven Spielberg,3,"Enjoyable visuals, weak plot.",08-07-2021
+50,John Donaldson,csullivan@moses.com,Glass Onion,Romance,1984,Denis Villeneuve,3,"Decent tension, nothing more.",07-06-2020
+16,Michelle Bryant,sydneyshaw@brock.biz,Forrest Gump,Animation,2020,Steven Spielberg,1,"Awful sequel, unnecessary.",02-10-2023
+48,Angela Freeman,kurt02@yahoo.com,The Shawshank Redemption,Comedy,1990,Christopher Nolan,2,Looked nice but lacked depth.,24-01-2023
+53,Laura Fuentes,danavasquez@smith.com,Top Gun,Action,2005,Greta Gerwig,1,"Horrible acting, no chemistry.",02-12-2020
+79,Jackson Richmond,emmalyons@hotmail.com,Inception,Animation,2022,Greta Gerwig,5,Outstanding world-building and emotion.,28-03-2023
+24,Kristina Terrell,eric04@hotmail.com,Frozen,Sci-Fi,1996,Christopher Nolan,5,"Original, gripping, and powerful.",12-02-2024
+36,Brandon Hickman,watersbethany@santiago.com,Wonder Woman,Action,2014,Wes Anderson,2,"Tries hard, fails harder.",12-11-2024
+3,Phillip Johnson,lambertbrian@gmail.com,Avengers: Infinity War,Comedy,1983,Denis Villeneuve,1,Emotionally flat and dull.,01-05-2024
+20,Deborah Miller,grant33@allen-jackson.com,Memento,Action,1998,Quentin Tarantino,2,Mediocre despite potential.,04-06-2021
+69,Kelsey Parker,millerdanielle@schaefer.biz,The Wolf of Wall Street,Action,1980,Martin Scorsese,5,"Spectacular, a cinematic delight.",22-06-2021
+10,Kayla Johnson,ryoung@yahoo.com,Logan,Thriller,2017,Greta Gerwig,3,Decent and easy to watch.,27-05-2020
+11,Karen Wright,melissa52@yahoo.com,Logan,Thriller,2017,Greta Gerwig,3,Entertaining but standard.,18-10-2021
+67,Mark Morris,seanlewis@maldonado-phelps.info,Guardians of the Galaxy,Comedy,1999,Greta Gerwig,3,Good moments but uneven tone.,26-01-2021
+64,Ryan Butler,uthompson@green.com,Whiplash,Thriller,2014,Steven Spielberg,4,"Strong performances, solid direction.",08-04-2021
+52,Kenneth Young,hwoods@hotmail.com,Ex Machina,Thriller,1991,Ridley Scott,2,"Half-baked ideas, poor follow-through.",30-06-2023
+1,James Velasquez,charlesaguilar@yahoo.com,Once Upon a Time in Hollywood,Romance,2016,Martin Scorsese,1,Terrible from every angle.,24-09-2020
+43,Shannon Robinson,debra59@harris-jackson.net,X-Men,Comedy,2024,Steven Spielberg,3,"Fine, light entertainment.",01-06-2021
+2,Donald Perkins,ann97@bennett-moss.com,Finding Nemo,Thriller,1987,Greta Gerwig,4,Enjoyable and nicely paced.,30-08-2022
+21,Elizabeth Walton,enelson@hotmail.com,Moana,Comedy,1990,Greta Gerwig,1,"Slow, boring, and instantly forgettable.",05-08-2024

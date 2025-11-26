@@ -1,0 +1,89 @@
+movie_id,title,genre,release_year,director
+1,Django Unchained,Romance,2012,Christopher Nolan
+2,Toy Story,Sci-Fi,2006,Quentin Tarantino
+3,Oppenheimer,Thriller,2010,Steven Spielberg
+4,Avengers: Infinity War,Comedy,1983,Denis Villeneuve
+5,Gladiator,Action,2003,Greta Gerwig
+6,The Imitation Game,Romance,1989,Greta Gerwig
+7,Avatar,Action,2017,Christopher Nolan
+8,Gravity,Horror,2003,David Fincher
+9,Interstellar,Drama,2008,Wes Anderson
+10,Inglourious Basterds,Action,1981,Steven Spielberg
+11,Bird Box,Animation,2011,Greta Gerwig
+12,Moana,Comedy,1990,Greta Gerwig
+13,Logan,Thriller,2017,Greta Gerwig
+14,Gone Girl,Drama,2007,Wes Anderson
+15,Captain America,Thriller,2022,James Cameron
+16,Her,Action,1991,Steven Spielberg
+17,The Maze Runner,Animation,2015,James Cameron
+18,The Revenant,Drama,2005,Steven Spielberg
+19,Frozen,Sci-Fi,1996,Christopher Nolan
+20,Ex Machina,Thriller,1991,Ridley Scott
+21,Up,Sci-Fi,1981,Denis Villeneuve
+22,Thor,Action,1986,Martin Scorsese
+23,The Social Network,Comedy,2000,Ridley Scott
+24,Arrival,Drama,1994,Greta Gerwig
+25,La La Land,Comedy,2004,Martin Scorsese
+26,Don't Look Up,Romance,2007,Martin Scorsese
+27,Madagascar,Animation,1983,Christopher Nolan
+28,The Wolf of Wall Street,Action,1980,Martin Scorsese
+29,1917,Drama,1997,David Fincher
+30,Black Panther,Comedy,2011,James Cameron
+31,Iron Man,Sci-Fi,2012,Steven Spielberg
+32,Se7en,Romance,1998,Christopher Nolan
+33,Wonder Woman,Action,2014,Wes Anderson
+34,Dunkirk,Comedy,1998,Martin Scorsese
+35,The Matrix,Action,1982,Christopher Nolan
+36,Tenet,Sci-Fi,2024,Wes Anderson
+37,Coco,Horror,2011,Martin Scorsese
+38,Ant-Man,Romance,2024,James Cameron
+39,Avengers: Endgame,Action,2012,Denis Villeneuve
+40,Memento,Action,1998,Quentin Tarantino
+41,Spider-Man: No Way Home,Horror,2001,Martin Scorsese
+42,Iron Man 2,Horror,2000,Wes Anderson
+43,Titanic,Drama,2001,Greta Gerwig
+44,Dune,Horror,2019,Martin Scorsese
+45,Knives Out,Romance,1981,Wes Anderson
+46,Train to Busan,Thriller,2021,Wes Anderson
+47,It,Horror,2021,Wes Anderson
+48,Eternals,Horror,1995,Greta Gerwig
+49,Guardians of the Galaxy,Comedy,1999,Greta Gerwig
+50,Blade Runner 2049,Comedy,1990,Martin Scorsese
+51,The Incredibles,Romance,1998,Martin Scorsese
+52,Top Gun,Action,2005,Greta Gerwig
+53,Aquaman,Animation,2023,Quentin Tarantino
+54,Justice League,Comedy,1991,Ridley Scott
+55,Shrek,Action,1994,Greta Gerwig
+56,John Wick,Horror,2018,Wes Anderson
+57,The Flash,Sci-Fi,2012,Quentin Tarantino
+58,The Prestige,Animation,2016,Steven Spielberg
+59,Mission Impossible,Sci-Fi,2014,Steven Spielberg
+60,Fight Club,Animation,2005,Quentin Tarantino
+61,The Hunger Games,Horror,2011,Ridley Scott
+62,Parasite,Comedy,2014,David Fincher
+63,Iron Man 3,Animation,2015,Christopher Nolan
+64,The Theory of Everything,Horror,1991,Wes Anderson
+65,Forrest Gump,Animation,2020,Steven Spielberg
+66,Jurassic Park,Drama,1984,Christopher Nolan
+67,The Conjuring,Animation,1982,Wes Anderson
+68,Whiplash,Thriller,2014,Steven Spielberg
+69,Pulp Fiction,Sci-Fi,1993,David Fincher
+70,The Whale,Horror,2000,Wes Anderson
+71,Divergent,Sci-Fi,1980,Wes Anderson
+72,Joker,Action,2003,David Fincher
+73,The Lion King,Horror,1993,Greta Gerwig
+74,Glass Onion,Romance,1984,Denis Villeneuve
+75,Once Upon a Time in Hollywood,Romance,2016,Martin Scorsese
+76,The Batman,Romance,2014,David Fincher
+77,Shang-Chi,Sci-Fi,2022,Ridley Scott
+78,The Shawshank Redemption,Comedy,1990,Christopher Nolan
+79,Annabelle,Thriller,2018,David Fincher
+80,Hulk,Horror,2020,Wes Anderson
+81,Avengers,Horror,1990,Christopher Nolan
+82,Finding Nemo,Thriller,1987,Greta Gerwig
+83,Barbie,Thriller,2020,Martin Scorsese
+84,Man of Steel,Horror,1990,Martin Scorsese
+85,Inception,Animation,2022,Greta Gerwig
+86,The Godfather,Animation,2008,David Fincher
+87,Deadpool,Action,1982,James Cameron
+88,X-Men,Comedy,2024,Steven Spielberg

@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block title %}My Watchlist{% endblock %}
+
+{% block content %}
+<h2>👀 My Watchlist</h2>
+
+<ul class="movie-list watchlist page">
+  {% for movie in watchlist_items %}
+    <li>
+      <div class="movie-info">
+        <div class="movie-title">
+          <a href="{{ url_for('movie_detail', movie_id=movie[0]) }}">{{ movie[1] }}</a>
+        </div>
+        <div class="movie-meta">Director: {{ movie[2] }} | Genre: {{ movie[3] }}</div>
+      </div>
+
+      <div class="movie-actions">
+        <form method="POST" action="{{ url_for('watchlist') }}">
+          <input type="hidden" name="movie_id" value="{{ movie[0] }}">
+          <input type="hidden" name="action" value="remove">
+          <button type="submit" class="action-button action-danger remove-button">Remove</button>
+        </form>
+
+        <a href="{{ url_for('movie_detail', movie_id=movie[0]) }}" class="action-button action-success review-button">
+          Review Now
+        </a>
+      </div>
+    </li>
+  {% else %}
+    <li class="empty-state">
+      Your watchlist is empty! Find some movies to add on the
+      <a href="{{ url_for('index') }}">Homepage</a>.
+    </li>
+  {% endfor %}
+</ul>
+{% endblock %}
